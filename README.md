@@ -6,7 +6,7 @@ Script that update version number on build.
 * Copy script to the root folder of the Node JS project.
 * Install `json-beautify`
 ```bash
-$npm i json-beauty --save-dev
+$ npm i json-beauty --save-dev
 ```
 * Add to build/deploy pipeline or script. It may be added to the build/deploy command in package.json
 ```json
